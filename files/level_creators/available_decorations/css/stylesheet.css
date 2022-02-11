@@ -1,0 +1,81 @@
+.scrollBox {
+    /* overflow: scroll; */
+    height: 600px;
+    width: 100%;
+}
+
+.dark {
+    background-color: black;
+    color: black;
+}
+
+.light {
+    background-color: white;
+}
+
+.normaliser,
+.dark,
+.light {
+    width: 50px;
+    height: 50px;
+}
+
+.index,
+.BottomSectionOfFrame {
+    width: 99%;
+    background-color: white;
+    border: 0.5px black groove;
+    color: black;
+}
+
+.index:clicked {
+    background-color: aliceblue;
+}
+
+.menuButton {
+    background-color: white;
+    border: 0.5px black groove;
+    padding: 1px;
+    margin-right: 0px;
+    margin-left: 5px;
+    /* float: right; */
+    /* position: fixed; */
+    background-position: right;
+}
+
+.menuButton:hover {
+    background-color: aqua;
+}
+
+#default {
+    display: none;
+}
+
+.mainBox {
+    background-color: transparent;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+}
+
+.link {
+    color: blue;
+    text-decoration: none;
+}
+
+.link:hover {
+    /* color: lightblue; */
+    color: cornflowerblue;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.link:active {
+    /* color: red; */
+    color: lightblue;
+    text-decoration: dotted;
+}
+.ToggleButton{
+    color: black;
+}
