@@ -1,0 +1,14 @@
+2 teinte de:
+	1 bleu claire: #86affe /
+	1 bleu foncé: #020eae /
+1 violet clair: #b32bff /
+1 violet fonçé: #6500af /
+5/6 blanc: #ffffff
+
+axe x: 
+
+color for lava:
+	background: r:  v: b:
+	spot: r: v: b:
+	light orange: r: 210 v: 82 b: 14 #d2520e
+	dark orange: r: 203 v: 61 b: 7 #cb3d07

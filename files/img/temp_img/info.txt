@@ -1,0 +1,51 @@
+2 teinte de:
+	1 bleu claire: #86affe /
+	1 bleu foncé: #020eae /
+1 violet clair: #b32bff /
+1 violet fonçé: #6500af /
+5/6 blanc: #ffffff
+
+axe x: 0 (aborted,quility loss = to high)
+
+color for lava:
+	background: r:  v: b:
+	spot: r: v: b:
+	light orange: r: 210 v: 82 b: 14 #d2520e
+	dark orange: r: 203 v: 61 b: 7 #cb3d07
+
+
+color for sprite leo:
+	head:
+
+
+Menu:
+	Start New Adventure
+	Continue Adventure
+	Credits
+	Decem Elementa
+	
+Credits:
+	Credits
+	Game Created by:
+	Pier-alexandre Rosa
+	Léo L'huillier
+	Evan Labourdette
+	Henry Letellier
+	Music created by Léo L'huillier and Henry Letellier with FL studio 
+	Level one created by Evan Labourdette
+	Level two created by Pier-alexandre Rosa
+	Level three created by Evan Labourdette
+	Spritesheets, assets, images created by Henry Letellier
+	Game created with Godot
+	Font Joystix: https://www.fontspring.com/fonts/typodermic/joystix
+		
+
+Game Over/
+
+You Have Lost A Life
+
+closed well /
+create a heart /
+create a block of sand /
+	
+	
