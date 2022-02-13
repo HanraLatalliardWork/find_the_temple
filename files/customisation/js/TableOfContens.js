@@ -1,5 +1,5 @@
 function TableOfContents(ID,page="") {
-    var home = "https://hanralatalliardwork.github.io/wolf_escape_home/",
+    var home = "https://hanralatalliardwork.github.io/find_the_temple/",
         content = [],
         e = document.getElementById(ID).innerHTML,
         ad="files/level_creators/available_decorations";
@@ -16,6 +16,7 @@ function TableOfContents(ID,page="") {
         content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#Hosts\">Hosted by</a></ol>");
         // content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#ToCome\">To come</a></ol>");
     }
+    content.push("          <li class=\"ContentsListli\"><a class=\"link\"  href=\"" + home + "files/play/v2/\">Play The Game <b>Online!</b></b></a></li>");
     // content.push("          <li class=\"ContentsListli\"><a class=\"link\"  href=\"" + home + "\">Create Levels</a></li>");
     // if (page===""){}
     // content.push("          <li class=\"ContentsListli\"><a class=\"link\"  href=\"" + home + "files/level_creators/available_decorations/\">All the sprites of the game</a></li>");
