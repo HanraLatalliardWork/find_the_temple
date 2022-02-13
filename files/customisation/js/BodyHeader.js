@@ -12,15 +12,15 @@ function writeBodyHeader(ID){
     writeBodyHeader+='        <!-- Place this tag where you want the button to render. -->\n';
     writeBodyHeader+='        <a class="github-button" href="https://github.com/hanralatalliardwork" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @hanralatalliardwork on GitHub">Follow @hanralatalliardwork</a>\n';
     writeBodyHeader+='        <!-- Place this tag where you want the button to render. -->\n';
-    writeBodyHeader+='        <a class="github-button" href="https://github.com/hanralatalliardwork/wolf_escape_home/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch hanralatalliardwork/wolf_escape_home on GitHub">Watch</a>\n';
+    writeBodyHeader+='        <a class="github-button" href="https://github.com/hanralatalliardwork/find_the_temple/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch hanralatalliardwork/find_the_temple on GitHub">Watch</a>\n';
     writeBodyHeader+='        <!-- Place this tag where you want the button to render. -->\n';
-    writeBodyHeader+='        <a class="github-button" href="https://github.com/hanralatalliardwork/wolf_escape_home" data-icon="octicon-star" data-show-count="true" aria-label="Star hanralatalliardwork/wolf_escape_home on GitHub">Star</a>\n';
+    writeBodyHeader+='        <a class="github-button" href="https://github.com/hanralatalliardwork/find_the_temple" data-icon="octicon-star" data-show-count="true" aria-label="Star hanralatalliardwork/find_the_temple on GitHub">Star</a>\n';
     writeBodyHeader+='        <!-- Place this tag where you want the button to render. -->\n';
     writeBodyHeader+='        <a class="github-button" href="https://github.com/hanralatalliardwork/My_styling/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork hanralatalliardwork/My_styling on GitHub">Fork (stylesheets and scripts)</a>\n';
     writeBodyHeader+='    </HeaderRight>\n';
     writeBodyHeader+='</HeaderContainer>\n';
     writeBodyHeader+='<div id="checkboxContainer">\n';
-    writeBodyHeader+='    <input type="checkbox" id="darkOrLight" onclick="theme(\'darkOrLight\',\'theme\',\'https://hanralatalliardwork.github.io/wolf_escape_home/\',\'files/customisation/css/boostrap_dark.css\',\'files/customisation/css/bootstrap.css\');UpdateTheme();">\n';
+    writeBodyHeader+='    <input type="checkbox" id="darkOrLight" onclick="theme(\'darkOrLight\',\'theme\',\'https://hanralatalliardwork.github.io/find_the_temple/\',\'files/customisation/css/boostrap_dark.css\',\'files/customisation/css/bootstrap.css\');UpdateTheme();">\n';
     writeBodyHeader+='    <label for="darkOrLight">\n';
     writeBodyHeader+='        <div id="star">\n';
     writeBodyHeader+='            <div class="star" id="star-1">&starf;</div>\n';
