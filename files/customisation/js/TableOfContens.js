@@ -7,18 +7,18 @@ function TableOfContents(ID,page="") {
     content.push("      <ul>");
     content.push("          <li class=\"ContentsListli\"><a class=\"link\"  href=\"" + home + "\">Home</a></li>");
     if (page==="home"){
-        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#About\">About wolf Escape</a></ol>");
+        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#About\">About Find The Temple</a></ol>");
         content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#supported\">Supported systems</a></ol>");
-        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#Download\">Download wolf Escape</a></ol>");
-        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#Discord\">The wolf Escape Discord server</a></ol>");
-        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#Controls\">How to play Wolf Escape</a></ol>");
-        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#licence\">Wolf Escape's licence</a></ol>");
+        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#Download\">Download Find The Temple</a></ol>");
+        // content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#Discord\">The Find The Temple Discord server</a></ol>");
+        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#Controls\">How to play Find The Temple</a></ol>");
+        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#licence\">Find The Temple's licence</a></ol>");
         content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#Hosts\">Hosted by</a></ol>");
-        content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#ToCome\">To come</a></ol>");
+        // content.push("          <ol class=\"ContentsListol\"><a class=\"link\"  href=\"" + home + "#ToCome\">To come</a></ol>");
     }
-    content.push("          <li class=\"ContentsListli\"><a class=\"link\"  href=\"" + home + "\">Create Levels</a></li>");
+    // content.push("          <li class=\"ContentsListli\"><a class=\"link\"  href=\"" + home + "\">Create Levels</a></li>");
     if (page===""){}
-    content.push("          <li class=\"ContentsListli\"><a class=\"link\"  href=\"" + home + "files/level_creators/available_decorations/\">All the sprites of the game</a></li>");
+    // content.push("          <li class=\"ContentsListli\"><a class=\"link\"  href=\"" + home + "files/level_creators/available_decorations/\">All the sprites of the game</a></li>");
     if (page==="available_decorations"){
         content.push("          <ol class=\"ContentsListol\"><a class=\"link\" onclick=\"showContent(\'ends-content\',\'endsButtonToggle\')\"  href=\"#ends\">Ends</a></ol>")
         content.push("          <ol class=\"ContentsListol\"><a class=\"link\" onclick=\"showContent(\'social-content\',\'socialButtonToggle\')\"  href=\"#social\">Social</a></ol>")

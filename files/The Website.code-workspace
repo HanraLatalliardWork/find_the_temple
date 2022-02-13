@@ -1,11 +1,13 @@
 {
-	"folders": [
-		{
-			"path": ".."
-		},
-		{
-			"path": "..\\..\\My_styling"
-		}
-	],
-    "settings": {}
+    "folders": [
+        {
+            "path": ".."
+        },
+        {
+            "path": "..\\..\\..\\My_styling"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "find_the_temple"
+    }
 }
