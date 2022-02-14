@@ -20,6 +20,10 @@
 
 }
 
+p{
+    width: auto;
+    height: auto;
+}
 
 .System_container{
     display: flex;
